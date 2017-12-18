@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872709649521",
+    "firebase_url": "https://allinonescanner-ca228.firebaseio.com",
+    "project_id": "allinonescanner-ca228",
+    "storage_bucket": "allinonescanner-ca228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872709649521:android:50b52b99d258884f",
+        "android_client_info": {
+          "package_name": "com.application.santhosh.allinonescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872709649521-ulgijpci8bgmcl1jhdg1ci2a3othtlmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARiI8Pynb9RJIHSMn03lUjqo3SDL7An4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
